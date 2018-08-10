@@ -3,3 +3,7 @@
 ################################################################################
 
 /src/.vs/FortniteChecker/v15/Server/sqlite3
+/.vs
+/src/FortniteChecker/bin/Debug
+/src/FortniteChecker/obj
+/src/.vs
