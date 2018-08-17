@@ -12,6 +12,7 @@ namespace FortniteChecker.Models
         public static string AuthorizationValue =
             "basic ZWM2ODRiOGM2ODdmNDc5ZmFkZWEzY2IyYWQ4M2Y1YzY6ZTFmMzFjMjExZjI4NDEzMTg2MjYyZDM3YTEzZmM4NGQ=";
 
+        // Last update [5.20.0]
         public static Hashtable Pickaxes = new Hashtable
         {
             { "boltonpickaxe", "Close Shave" },
@@ -101,6 +102,7 @@ namespace FortniteChecker.Models
             { "pickaxe_id_085_wukong", "Jingu Bang" }
         };
 
+        // Last update [3.5.0]
         public static Hashtable Gliders = new Hashtable
         {
             {"glider_id_001", "Aerial Assault One"},
@@ -143,6 +145,7 @@ namespace FortniteChecker.Models
             {"glider_id_030_circuitbreaker", "Mainframe"}
         };
 
+        // Last update [5.20.0]
         public static Hashtable Backblings = new Hashtable
         {
             {"001_bluesquire", "Squire Shield"},
@@ -174,9 +177,57 @@ namespace FortniteChecker.Models
             {"041_pajamaparty", "Hatchling"},
             {"042_fishhead", "Fish Tank"},
             {"043_pizza", "Special Delivery"},
-            {"044_robo", "Steelcast"}
+            {"044_robo", "Steelcast"},
+            {"045_tacticaljungle", "Standard Issue"},
+            {"047_candy", "Goodie Bag"},
+            {"048_graffiti", "Tag Bag"},
+            {"049_tacticalwoodland", "True North"},
+            {"050_hazmat", "Pathogen"},
+            {"051_merman", "Mertank"},
+            {"052_hazmatfemale", "Contagion"},
+            {"053_jailbirdmale", "Strongbox"},
+            {"054_jailbirdfemale", "Burgle Bag"},
+            {"055_psburnout", "Blue Shift"},
+            {"056_fighterpilot", "Bogey Bag"},
+            {"057_visitor", "Offworld Rig"},
+            {"058_darkeagle", "Battle Shroud"},
+            {"059_wwiipilot", "Last Gasp"},
+            {"060_darkninja", "Ominous Orb"},
+            {"061_carbideorange", "Stabilizer"},
+            {"062_gumshoe", "Evidence Bag"},
+            {"063_cuchulainn", "Crested Cape"},
+            {"064_fuzzybearind", "Blasting Cap"},
+            {"065_carbideblack", "Destabilizer"},
+            {"066_speedyred", "Deflector"},
+            {"067_gumshoefemale", "Confidential Case"},
+            {"068_gumshoedark", "Cluefinder"},
+            {"069_decomale", "Venturion Cape"},
+            {"070_decofemale", "Ventura Cape"},
+            {"071_vikingfemale", "Rearguard"},
+            {"072_vikingmale", "Enduring Cape"},
+            {"073_darkviking", "Frozen Shroud"},
+            {"074_lifeguardfemale", "Pool Party"},
+            {"075_tacticalbadass", "Uplink"},
+            {"076_shark", "Shark Fin"},
+            {"077_wegame", "Insignia"},
+            {"078_streetracercobrafemale", "Ballistic"},
+            {"079_penguin", "Penguin"},
+            {"080_streetracercobramale", "Bat Attitude"},
+            {"081_scubamale", "Diving Tank"},
+            {"082_scubafemale", "Air Tank"},
+            {"083_lifeguardmale", "Rescue Ring"},
+            {"084_birthday2018", "Birthday Cake"},
+            {"085_modernmilitary", "Paradigm"},
+            {"086_exercisefemale", "Back Plate"},
+            {"087_exercisemale", "Boombox"},
+            {"088_sushichefmale", "Chef's Choice"},
+            {"089_streetracerwhitefemale", "Ignition"},
+            {"090_streetracerwhitemale", "Lane Splitter"},
+            {"091_durrrburgerhero", "Deep Fried"},
+            {"092_fuzzybearpanda", "Bamboo"}
         };
 
+        // Last update: [3.6.0]
         public static Hashtable Outfits = new Hashtable
         {
             {"009_athena_commando_m", "Tracker"},
