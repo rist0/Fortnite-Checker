@@ -1,5 +1,5 @@
 # Fortnite Checker
-Checks for valid accounts and their inventory
+Checks a list of accounts if they are valid or invalid. If valid, it checks the skins they have and other account stats, such as wins, battle pass level, account level and more and saves them to a CSV file.
 
 # Preview
 ![Preview](https://i.imgur.com/US9n4hD.png)
@@ -17,9 +17,8 @@ Checks for valid accounts and their inventory
 - Cancellation support
 
 # Information
-I have added all possible combinations of outfits, pickaxes, gliders and backblings until 4.0.0 (without it). I may add others in the future, may not. You can find them on stormshield.one.
-
-Also, I haven't tested the proxy feature, as I had no need. Use at your own risk.
+All outfits, gliders, pickaxes and backblings until 5.20.0 have been added.
+Proxy feature was not tested as I had no need for it. Use at your own risk.
 
 # Terms and conditions
 - This repository is for educational purposes only
