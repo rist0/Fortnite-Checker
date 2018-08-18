@@ -102,7 +102,7 @@ namespace FortniteChecker.Models
             { "pickaxe_id_085_wukong", "Jingu Bang" }
         };
 
-        // Last update [3.5.0]
+        // Last update [5.20.0]
         public static Hashtable Gliders = new Hashtable
         {
             {"glider_id_001", "Aerial Assault One"},
@@ -142,7 +142,41 @@ namespace FortniteChecker.Models
             {"glider_id_027_satelite", "Planetary Probe"},
             {"glider_id_028_googly", "Googly"},
             {"glider_id_029_pajamaparty", "Fossil Flyer"},
-            {"glider_id_030_circuitbreaker", "Mainframe"}
+            {"glider_id_030_circuitbreaker", "Mainframe"},
+            {"glider_id_031_metal", "Solid Strider"},
+            {"glider_id_032_tacticalwoodland", "Steadfast"},
+            {"glider_id_033_valor", "Wings of Valor"},
+            {"glider_id_034_carbideblue", "Intrepid"},
+            {"glider_id_035_candy", "Sugar Crash"},
+            {"glider_id_036_auroraglow", "Glow Rider"},
+            {"umbrella_season_04", "Wet Paint"},
+            {"glider_id_037_hazmat", "Meltdown"},
+            {"glider_id_038_deco", "Triumph"},
+            {"glider_id_039_venus", "Venus Flyer"},
+            {"glider_id_040_jailbird", "Starry Flight"},
+            {"glider_id_041_basketball", "Hang Time"},
+            {"glider_id_042_soccer", "Goalbound"},
+            {"glider_id_043_darkninja", "Split Wing"},
+            {"glider_id_044_pterodactyl", "Pterodactyl"},
+            {"glider_id_045_carbideblack", "Terminus"},
+            {"glider_id_046_gumshoe", "Viceroy Mark I"},
+            {"glider_id_047_speedyred", "Forerunner"},
+            {"glider_id_048_viking", "Conquest"},
+            {"glider_id_049_lifeguard", "Splashdown"},
+            {"glider_id_050_streetracercobra", "Cruiser"},
+            {"glider_id_051_luchador", "Libre"},
+            {"glider_id_052_bedazzled", "Rhinestone Rider"},
+            {"glider_id_053_huya", "Rush"},
+            {"glider_id_054_douyu", "Helium"},
+            {"glider_id_055_streetracerblack", "Downshift"},
+            {"umbrella_season_05", "Beach Umbrella"},
+            {"glider_id_057_modernmilitary", "Servo"},
+            {"glider_id_058_shark", "Laser Chomp"},
+            {"glider_id_059_durrburgerhero", "Flying Saucer"},
+            {"glider_id_060_exercise", "Windbreaker"},
+            {"glider_id_061_streetracerbiker", "Cyclone"},
+            {"glider_id_062_streetracerwhite", "White Squall"},
+            {"glider_id_063_sushichef", "Flying Fish"}
         };
 
         // Last update [5.20.0]
