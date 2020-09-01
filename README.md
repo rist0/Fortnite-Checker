@@ -6,7 +6,7 @@ Checks a list of accounts if they are valid or invalid. If valid, it checks the 
 
 # Results (CSV Preview)
 ![ResultsPreview](https://i.imgur.com/fVYjgnh.png)
-
+[![Run on Repl.it](https://repl.it/badge/github/rist0/Fortnite-Checker)](https://repl.it/github/rist0/Fortnite-Checker)
 # Features
 - Checks for valid / invalid accounts
 - Scrapes profile inventory (outfits, pickaxes, gliders and more)
